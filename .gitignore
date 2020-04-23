@@ -1,0 +1,12 @@
+data/calendar.csv
+data/m5-forecasting-accuracy.zip
+data/sales_train_validation.csv
+data/sample_submission.csv
+data/sell_prices.csv
+.vscode/settings.json
+.vscode/.ropeproject/config.py
+.vscode/.ropeproject/objectdb
+__pycache__
+.ipynb_checkpoints/StockTS-checkpoint.ipynb
+.ipynb_checkpoints/superStoreTS-checkpoint.ipynb
+Sample - Superstore.xls
